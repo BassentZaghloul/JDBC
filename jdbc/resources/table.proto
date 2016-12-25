@@ -1,0 +1,16 @@
+package protocolBuffer;
+
+option java_package = "fileHandler.protocolBuffer";
+option java_outer_classname = "TableProto";
+
+message Table {
+	required string tablename = 1;
+	repeated Column col = 2;
+}
+
+message Column {
+	required string colname = 1;
+	required string coltype = 2;
+	repeated string values = 3;
+
+}

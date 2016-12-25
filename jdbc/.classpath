@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="JAR"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="lib" path="C:/Users/me/git/Paint-Project/jdbc/JAR/gson-2.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/me/git/Paint-Project/jdbc/JAR/json-simple-1.1.1-1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/me/git/Paint-Project/jdbc/JAR/log4j-api-2.6.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/me/git/Paint-Project/jdbc/JAR/log4j-core-2.6.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/me/git/Paint-Project/jdbc/JAR/protobuf-java-3.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/me/git/Paint-Project/jdbc/JAR/protobuf-java-util-3.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/me/git/Paint-Project/jdbc/JAR/stax-utils.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
